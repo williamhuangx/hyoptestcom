@@ -3,7 +3,7 @@
 .tb tr td{padding: 1px;border: 1px solid #ccc;text-align: center;color:#000;height: 30px}
 .pp{font-size: 14px}
 .bt{clear:both }
-.left-ringt{display: grid;grid-template-columns: repeat(auto-fill, minmax(358px, 1fr));gap: 5px;line-height: 50px}
+.left-ringt{display: grid;grid-template-columns: repeat(auto-fill, minmax(358px, 1fr));gap: 5px;line-height: 50px;margin-top:10px}
 .ringt1{margin-left: 10px}
 .title1{font-size: 28px;color:#ccc;font-weight: bold;}
 .title2{font-size: 48px;color:#124f9d;font-weight: bold;}
